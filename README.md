@@ -1,4 +1,4 @@
-This code performs initial data exploration and exploratory data analysis on a dataset using pandas and matplotlib in Python. Here's a short summary for a GitHub readme:
+This code performs initial data exploration and exploratory data analysis on a dataset using pandas and matplotlib in Python.
 
 Code Summary
 The code loads a dataset using pandas and performs the following steps:
